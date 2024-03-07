@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "kauy(5)",
+  "identifier": "texture:54903-393d3841-3230-4111-b9f6-5c991ef46b50",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "8f28e33881691aa709afd52b36d90e94",
+  "assetLocator": "textures/kauy(5).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 61,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 129,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "8f28e33881691aa709afd52b36d90e94",
+      "colorCount": 1894,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 3.6288751800594197,
+      "pixelsHigh": 61,
+      "pixelsWide": 129
+    }
+  ]
+}
